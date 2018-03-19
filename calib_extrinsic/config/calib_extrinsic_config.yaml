@@ -1,0 +1,16 @@
+%YAML:1.0
+camera_topic: "/jzhw/jzcamera"
+fx: 478.654
+fy: 478.618
+u0: 366.201
+v0: 208.891
+k1: -0.37251
+k2: 0.149073
+ImgWidth: 752
+ImgHeight: 480
+projWidth: 520
+projHeight: 332
+objWidth: 166.02
+objHeight: 106.0
+camera_toward: 1
+
